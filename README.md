@@ -1,5 +1,5 @@
 # Python_basics
-Basic Problems in Python language.
+Basic syntaxes and problems in Python language.
 Concepts: 
 1) Decision making and loops
 2) Data types - list,sets,dictionaries,tuples
